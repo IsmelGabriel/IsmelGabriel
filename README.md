@@ -22,5 +22,4 @@ Me interesa el desarrollo web y de aplicaciones, con enfoque en soluciones prác
 
 ## Contacto  
 - ✉️ Email: [ssismel28@gmail.com(mailto:ssismel28@gmail.com)  
-- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/f51d6096-2368-4bd4-80cb-bd9641a2c7d8" />
- GitHub: [IsmelGabriel](https://github.com/IsmelGabriel)  
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/f51d6096-2368-4bd4-80cb-bd9641a2c7d8" /> GitHub: [IsmelGabriel](https://github.com/IsmelGabriel)  
