@@ -8,7 +8,7 @@ Me interesa el desarrollo web y de aplicaciones, con enfoque en soluciones prác
 ## Tecnologías  
 - **Lenguajes:** Python, C#, Java, PHP  
 - **Bases de datos:** SQL, NoSQL (MongoDB)  
-- **Frontend:** HTML5, CSS3  
+- **Frontend:** HTML5, CSS3, Thymeleaf
 - **Backend:** Java Web, Spring Boot  
 - **Otros:** Git, GitHub  
 
