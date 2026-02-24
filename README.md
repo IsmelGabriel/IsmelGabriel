@@ -5,18 +5,10 @@ Me interesa el desarrollo web y de aplicaciones, con enfoque en soluciones prác
 
 ---
 
-## Tecnologías  
-- **Lenguajes:** Python, C#, Java, PHP  
-- **Bases de datos:** SQL, NoSQL (MongoDB)  
-- **Frontend:** HTML5, CSS3, Thymeleaf
-- **Backend:** Java Web, Spring Boot  
-- **Otros:** Git, GitHub  
-
----
-
 ## Proyectos actuales  
-- **AgroSell** → Plataforma web para la gestión de ventas agrícolas.  
-- **Gestor de PC** → Aplicación en Python para monitorear el rendimiento del equipo.  
+- [**AgroSell**](https://github.com/IsmelGabriel/agrosell-spring) → Plataforma web para la gestión de ventas agrícolas.
+- [**ZioTiki Bot**](https://github.com/IsmelGabriel/discord-bot) → Sistema para gestión de servidores/comunidades de Discord
+- [**Gestor de PC**](https://github.com/IsmelGabriel/SystemManagerV1) → Aplicación en Python para monitorear el rendimiento del equipo.
 
 ---
 
