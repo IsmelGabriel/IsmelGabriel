@@ -1,14 +1,14 @@
 # Hola, soy Ismel Gabriel Salazar Suniaga  
 
 Soy desarrollador en formación, actualmente cursando **Análisis y Desarrollo de Software**.  
-Me interesa el desarrollo web y de aplicaciones, con enfoque en soluciones prácticas y funcionales.  
+Interesado en como el mundo tecnologico funciona, y ¿porque no?, crear mis propios sistema base a lo que ya existen pero con mis propias funcionas personalizadas.
 
 ---
 
 ## Proyectos actuales  
-- [**AgroSell**](https://github.com/IsmelGabriel/agrosell-spring) → Plataforma web para la gestión de ventas agrícolas.
-- [**ZioTiki Bot**](https://github.com/IsmelGabriel/discord-bot) → Sistema para gestión de servidores/comunidades de Discord
-- [**Gestor de PC**](https://github.com/IsmelGabriel/SystemManagerV1) → Aplicación en Python para monitorear el rendimiento del equipo.
+- [**AgroSell**](https://github.com/IsmelGabriel/agrosell-spring) → Plataforma web para la gestión de ventas agrícolas (Proyecto ADSO).
+- [**ZioTiki Bot**](https://github.com/IsmelGabriel/discord-bot) → Sistema para gestión de servidores/comunidades de Discord (Personal).
+- [**Gestor de PC**](https://github.com/IsmelGabriel/SystemManagerV1) → Aplicación en Python para monitorear el rendimiento del equipo (Personal).
 
 ---
 
