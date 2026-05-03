@@ -1,4 +1,4 @@
-# Hola, soy Ismel Gabriel Salazar Suniaga  
+# Hola, soy Ismel Salazar
 
 Soy desarrollador en formación, actualmente cursando **Análisis y Desarrollo de Software**.  
 Interesado en como el mundo tecnologico funciona, y ¿porque no?, crear mis propios sistema base a lo que ya existen pero con mis propias funcionas personalizadas.
