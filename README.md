@@ -10,7 +10,7 @@ Construyendo herramientas funcionales y optimizando recursos desde Bogota, Colom
 
 <br>
 
-## Proyectos Destacados
+## Mis Destacados
 
 | Proyecto | Descripcion | Stack Principal |
 | :--- | :--- | :--- |
