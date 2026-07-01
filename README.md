@@ -24,7 +24,7 @@ Construyendo herramientas funcionales y optimizando recursos desde Bogota, Colom
 ## Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmelGabriel&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estadisticas de IsmelGabriel" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IsmelGabriel&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estadisticas de IsmelGabriel" />
 </div>
 
 <br>
