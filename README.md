@@ -36,7 +36,6 @@ Especializado en el ecosistema Python, desarrollo de APIs, optimización de recu
 | :--- | :--- | :--- |
 | [**Portafolio Web Backend**](https://github.com/IsmelGabriel/tu-repo-portafolio) | Aplicación web personal con base de datos relacional. Incluye pruebas automatizadas y despliegue continuo. | Python, Flask, PostgreSQL, pytest, Locust |
 | [**AgroSell Nova**](https://github.com/IsmelGabriel/agrosell-spring) | Plataforma de gestión agrícola. Gestión de repositorios en equipo y despliegue de bases de datos. | Java, Spring Boot, Render |
-| [**CLI Dev Helper**](https://github.com/IsmelGabriel/tu-repo-cli) | Herramienta de interfaz de comandos personalizada integrada en las variables de entorno de Windows para búsquedas rápidas. | Python, Batch, JSON |
 | [**ZioTiki Bot**](https://github.com/IsmelGabriel/discord-bot) | Sistema de gestión y automatización para servidores de Discord, alojado y monitorizado 24/7. | Python, Render, UptimeRobot |
 | [**SystemManagerV1**](https://github.com/IsmelGabriel/SystemManagerV1) | Aplicación de escritorio nativa para el monitoreo y gestión del rendimiento del sistema operativo. | Python |
 
